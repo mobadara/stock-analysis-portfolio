@@ -35,7 +35,7 @@ This project is part of my journey to transition from an **entry-level engineer*
 ---
 
 ## 📂 Repository Structure  
-
+```
 stock-analysis-portfolio/
 │── data/ # Raw & processed CSV files
 │── notebooks/ # Jupyter notebooks (analysis, visualization)
@@ -45,7 +45,7 @@ stock-analysis-portfolio/
 │── react-dashboard/ # React app code
 │── README.md # Project overview (this file)
 │── requirements.txt # Python dependencies
-
+```
 
 ---
 
