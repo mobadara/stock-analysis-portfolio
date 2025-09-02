@@ -1,8 +1,6 @@
 # 📊 Stock Market Analysis & Visualization  
 
-![GitHub last commit](https://img.shields.io/github/last-commit/mobadara/stock-analysis-portfolio?color=blue)  
-![GitHub repo size](https://img.shields.io/github/repo-size/mobadara/stock-analysis-portfolio)  
-![GitHub stars](https://img.shields.io/github/stars/mobadara/stock-analysis-portfolio?style=social)  
+![GitHub last commit](https://img.shields.io/github/last-commit/mobadara/stock-analysis-portfolio?color=blue) ![GitHub repo size](https://img.shields.io/github/repo-size/mobadara/stock-analysis-portfolio) ![GitHub stars](https://img.shields.io/github/stars/mobadara/stock-analysis-portfolio?style=social) 
 
 ---
 
