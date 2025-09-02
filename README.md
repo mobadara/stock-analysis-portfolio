@@ -89,13 +89,13 @@ ___
 
 ### Muyiwa Obadara
 
-- AI/ML Fellow @ Developers Foundry
+- AI/ML Developers Foundry Fellow @ [Tech4Dev](https://tech4dev.com/)
 
 - MSc Financial Engineering (WQU)
 
-- Microsoft Certified: Azure Data Scientist
+- Microsoft Certified: Azure Data Scientist Associate
 
-🌍 LinkedIn | 🐦 Twitter | 💻 GitHub
+🌍 [LinkedIn](https://linkedin.com/in/obadara-m) | 🐦 [Twitter](https://x.com/m_obadara) | 💻 [GitHub](https://github.com/mobadara)
 ___
 ## ⭐ Contributing
 
