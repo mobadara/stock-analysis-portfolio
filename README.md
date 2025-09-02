@@ -39,7 +39,7 @@ This project is part of my journey to transition from an **entry-level engineer*
 stock-analysis-portfolio/
 │── data/ # Raw & processed CSV files
 │── notebooks/ # Jupyter notebooks (analysis, visualization)
-│ └── stock_analysis.ipynb
+│ └── stock-analysis.ipynb
 │── reports/ # Plots, charts, documentation
 │── powerbi-dashboard/ # Power BI .pbix file + screenshots
 │── react-dashboard/ # React app code
