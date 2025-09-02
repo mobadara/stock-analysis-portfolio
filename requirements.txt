@@ -1,15 +1,15 @@
 # Core libraries
-pandas==2.2.2
-numpy==1.26.4
+pandas
+numpy
 
 # Data fetching
-yfinance==0.2.40
+yfinance
 
 # Visualization
-matplotlib==3.9.2
-seaborn==0.13.2
+matplotlib
+seaborn
 
 # Jupyter environment
-notebook==7.2.1
-jupyterlab==4.2.5
-ipykernel==6.29.5
+notebook
+jupyterlab
+ipykernel
